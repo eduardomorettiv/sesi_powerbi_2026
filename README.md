@@ -16,3 +16,6 @@ Citação para copiar
 ```
 
 Quero uma palavra em **negrito** e outra em *italico*
+
+## Matemática
+$\sqrt[2
