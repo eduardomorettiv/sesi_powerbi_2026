@@ -7,4 +7,4 @@
 |Texto|Texto|20|
 |Texto|Texto|20|
 
-![mickey](https://pt.wikipedia.org/wiki/Mickey_Mouse.)
+![mickey](https://upload.wikimedia.org/wikipedia/pt/thumb/d/d4/Mickey_Mouse.png/250px-Mickey_Mouse.png)
