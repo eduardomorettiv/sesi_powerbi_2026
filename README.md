@@ -18,4 +18,5 @@ Citação para copiar
 Quero uma palavra em **negrito** e outra em *italico*
 
 ## Matemática
-$\sqrt[2
+$\sqrt{2}$
+$\frac{1}{2}$
